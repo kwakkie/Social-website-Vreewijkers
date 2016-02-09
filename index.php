@@ -218,35 +218,38 @@ window.onload = addEvents; */
     <button id="signupbtn" onclick="signup()">Maak Account</button>
     <span id="status"></span>
   </form>
-  <a href="http://www.vreewijkers.nl/social/user.php?u=dick">bekijk voorbeeld pagina</a></br></br>
+  <a href="http://www.vreewijkers.nl/social/user.php?u=dick">bekijk voorbeeld pagina</a><br /><br />
   <div id="disclaimer">Note aan iedereen die deze pagina heeft gevonden,
       deze pagina is nog in ontwikkeling dus er worden in de loop der tijd functies toegevoegd.</div>
 
 </div>
 <div id="personal">
-    backend werkend</br>
-     inlog / uitlog / cookies</br>
-     registratie met bevestigings mail</br>
-     wachtwoord reset</br>
-     avatar aanpassen </br>
-     achtergrond aanpassen </br>
-     berichten plaatsen en verwijderen </br>
-     gebruikers blokkeren of toevoegen als vriend / verwijderen als vriend</br>
-     fotogalerij </br>
-     vriendelijst met avatars </br>
-     avatar tonen in berichten</br>
-     notificaties tonen ( icons nog aanpassen ! )</br>
-     inlog pagina layout en registratie pagina layout </br>
-     Registratie pagina als startpagina gebruiken.</br></br></br>
-    next - extra functionaliteit toevoegen </br>
-     gebruikers zoeken </br>
-    1. foto's toevoegen aan berichten </br>
-    2. responsive maken</br>
-    3. layout galerij en notificaties aanpassen</br>
-    </br>
+    backend werkend
+     inlog / uitlog / cookies
+     registratie met bevestigings mail
+     wachtwoord reset
+     avatar aanpassen 
+     achtergrond aanpassen 
+     berichten plaatsen en verwijderen 
+     gebruikers blokkeren of toevoegen als vriend / verwijderen als vriend
+     fotogalerij 
+     vriendelijst met avatars 
+     avatar tonen in berichten
+     notificaties tonen ( icons nog aanpassen ! )
+     inlog pagina layout en registratie pagina layout 
+     Registratie pagina als startpagina gebruiken.
+     gebruikers zoeken 
+
+     next - extra functionaliteit toevoegen 
+
+    1. foto's toevoegen aan berichten 
+    2. links toevoegen aan berichten
+    3. responsive maken
+    4. layout galerij en notificaties aanpassen
+    
   
  
-    <a href="http://www.vreewijkers.nl/social/user.php?u=dick">link om voorbeeld pagina bekijken</a></br></br>
+    <a href="http://www.vreewijkers.nl/social/user.php?u=dick">link om voorbeeld pagina bekijken</a>
     
     
 </div><!--END disclaimer-->
